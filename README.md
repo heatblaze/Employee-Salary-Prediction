@@ -81,12 +81,12 @@ streamlit run app.py
 ```
 ---
 
-## Sample Output
+##📊 Sample Output
 ![Sample_output](Sample_output.png)
 
 ---
 
-## Future Scope
+##✅ Future Scope
 - Predict actual salary instead of range.
 - Deploy on cloud (AWS, Heroku).
 - Add advanced visualization dashboards.
